@@ -4,11 +4,11 @@ public class reverseArray {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		revArray();
+		revArray1();
 
 	}
 
-	public static void revArray() {
+	public static void revArray1() {
 
 		int arr[] = {10,20,30,40,50};
 
